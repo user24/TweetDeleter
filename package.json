@@ -1,0 +1,9 @@
+{
+  "name": "TweetDeleter",
+  "description": "Delete all your tweets from your archive.",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "twit": "^2"
+  }
+}
