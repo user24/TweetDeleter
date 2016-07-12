@@ -2,7 +2,7 @@
 
 A small utility to delete every tweets from your Twitter archive.
 
-All your need is :
+For this you'll need :
 - [Node.JS](https://nodejs.org/)
 - [A twitter api access](https://apps.twitter.com)
 
