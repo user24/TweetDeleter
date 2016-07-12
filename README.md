@@ -7,6 +7,7 @@ All your need is :
 - A twitter api access
 
 To use to utility you need to :
+
 1. Download your Twitter archive
 2. Copy the tweets.csv file to the TweetDeleter folder
 3. Run "npm install" with cmd/terminal inside the TweetDeleter folder
