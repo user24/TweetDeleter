@@ -17,4 +17,9 @@ Then you'll need to :
 7. ????
 8. Enjoy
 
+If you want to use filters/keywords for tweets :
+
+1. Create a filters.txt file.
+2. Add one keywords per line, it can be a full sentence.
+
 If everything goes well, the tweets should start deleting as you sit there and relax.
